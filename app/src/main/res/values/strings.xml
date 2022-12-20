@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="about_me">Hello World! I love Android development and memes. Press a button to 😂 </string>
+    <string name="button_text">Generate Memes</string>
+</resources>
