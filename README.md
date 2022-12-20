@@ -31,7 +31,7 @@ XML layouts and hardcoded values for image width and height
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Codepath, Kamila Aripova]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
